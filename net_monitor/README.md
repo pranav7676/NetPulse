@@ -17,12 +17,14 @@ A real-time network monitoring dashboard built with Streamlit and Scapy.
 ## Installation
 
 1. Clone this repository:
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/net_monitor.git
 cd net_monitor
 ```
 
 2. Install the required packages:
+
 ```bash
 pip install streamlit pandas plotly psutil scapy
 ```
